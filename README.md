@@ -22,7 +22,7 @@ Key Features:
     Comprehensive Loggings:
         Captures session cookies and credentials efficiently with detailed analytics.
 ![Demo](/evil.gif)
-DEMO LINK:https://login.onlineauth2-client4765445b-32c6-49b0-83e6-1241d9376527634.info/NEkecfCX
+DEMO LINK:
 
 
 Don't abuse it,its for demonstration purpose
